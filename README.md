@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ridho and I'm a Informatics Engineering Student at Sumatera Institut of Technology....</p>
+<p align="left">My name is Ridho and I'm a Informatics Engineering Student at Sumatera Institut of Technology</p>
 
 ###
 
